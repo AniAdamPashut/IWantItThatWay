@@ -1,0 +1,12 @@
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\bin\Debug\net8.0\MonadsAreCool.deps.json
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\bin\Debug\net8.0\MonadsAreCool.dll
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\bin\Debug\net8.0\MonadsAreCool.pdb
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.AssemblyInfoInputs.cache
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.AssemblyInfo.cs
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.csproj.CoreCompileInputs.cache
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.sourcelink.json
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.dll
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\refint\MonadsAreCool.dll
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\MonadsAreCool.pdb
+C:\Users\mineb\Desktop\code\IWantItThatWay\C# monad\MonadsAreCool\MonadsAreCool\obj\Debug\net8.0\ref\MonadsAreCool.dll

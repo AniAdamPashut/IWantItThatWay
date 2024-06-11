@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599F869C-1D33-43BE-8035-87F6BDE25BB3}|MonadsAreCool\\MonadsAreCool.csproj|c:\\users\\mineb\\desktop\\code\\iwantitthatway\\c# monad\\monadsarecool\\monadsarecool\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F869C-1D33-43BE-8035-87F6BDE25BB3}|MonadsAreCool\\MonadsAreCool.csproj|solutionrelative:monadsarecool\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6DBD2B-17B7-4BE6-9266-AEADEDDB9358}|TestsNShit\\TestsNShit.csproj|c:\\users\\mineb\\desktop\\code\\iwantitthatway\\c# monad\\monadsarecool\\testsnshit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6DBD2B-17B7-4BE6-9266-AEADEDDB9358}|TestsNShit\\TestsNShit.csproj|solutionrelative:testsnshit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599F869C-1D33-43BE-8035-87F6BDE25BB3}|MonadsAreCool\\MonadsAreCool.csproj|c:\\users\\mineb\\desktop\\code\\iwantitthatway\\c# monad\\monadsarecool\\monadsarecool\\imonad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F869C-1D33-43BE-8035-87F6BDE25BB3}|MonadsAreCool\\MonadsAreCool.csproj|solutionrelative:monadsarecool\\imonad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\TestsNShit\\Program.cs",
+              "RelativeDocumentMoniker": "TestsNShit\\Program.cs",
+              "ToolTip": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\TestsNShit\\Program.cs",
+              "RelativeToolTip": "TestsNShit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:24:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\MonadsAreCool\\Option.cs",
+              "RelativeDocumentMoniker": "MonadsAreCool\\Option.cs",
+              "ToolTip": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\MonadsAreCool\\Option.cs",
+              "RelativeToolTip": "MonadsAreCool\\Option.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:21:34.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMonad.cs",
+              "DocumentMoniker": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\MonadsAreCool\\IMonad.cs",
+              "RelativeDocumentMoniker": "MonadsAreCool\\IMonad.cs",
+              "ToolTip": "C:\\Users\\mineb\\Desktop\\code\\IWantItThatWay\\C# monad\\MonadsAreCool\\MonadsAreCool\\IMonad.cs",
+              "RelativeToolTip": "MonadsAreCool\\IMonad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:20:30.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

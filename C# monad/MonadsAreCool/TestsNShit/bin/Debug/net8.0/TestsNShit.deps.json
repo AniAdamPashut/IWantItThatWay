@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestsNShit/1.0.0": {
+        "dependencies": {
+          "MonadsAreCool": "1.0.0"
+        },
+        "runtime": {
+          "TestsNShit.dll": {}
+        }
+      },
+      "MonadsAreCool/1.0.0": {
+        "runtime": {
+          "MonadsAreCool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestsNShit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonadsAreCool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
