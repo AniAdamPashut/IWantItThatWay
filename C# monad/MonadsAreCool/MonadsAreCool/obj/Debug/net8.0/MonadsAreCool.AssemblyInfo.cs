@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonadsAreCool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4caf675ccfd4bc7524a892fb80a89fdc34a19d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af3d1bcc0c3ec7fcdc40d621b48b16d789f9d846")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonadsAreCool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonadsAreCool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

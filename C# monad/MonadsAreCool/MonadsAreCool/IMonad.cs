@@ -2,6 +2,6 @@
 {
     public interface IMonad<T>
     {
-        IMonad<V> bind<V>(Func<T, IMonad<V>> func);
+        IMonad<V> Bind<V>(Func<T, IMonad<V>> func);
     }
 }
