@@ -15,5 +15,10 @@
             Console.WriteLine(m.Value);
             return m;
         }
+
+        public override string ToString()
+        {
+            return $"Logger {{ Value = {Value} }}";
+        }
     }
 }
